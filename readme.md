@@ -1,3 +1,7 @@
+## Friend is editing the Git
+
+- Happens to be the same line.
+
 -git init -> Initialize the project with local git
 -git status -> Track the changes made
 -git add . or git add <filename> -> Pushes the changes into local repo
