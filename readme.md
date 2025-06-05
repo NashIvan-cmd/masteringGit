@@ -20,3 +20,5 @@
 
 -git commit message = imperative -> If applied to the codebase, this commit will ________
 -What will happen if I merge the branch containing this commit.
+
+-Adding this line to test merge and pull
