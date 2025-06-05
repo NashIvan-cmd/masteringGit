@@ -1,3 +1,7 @@
+## Welcome to Git!
+
+-This is coming from dev-nash
+
 -git init -> Initialize the project with local git
 -git status -> Track the changes made
 -git add . or git add <filename> -> Pushes the changes into local repo
