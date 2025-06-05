@@ -1,4 +1,4 @@
-## Friend is editing the Git
+- I think my code should be followed!! HAHA
 
 - Happens to be the same line.
 
